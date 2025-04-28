@@ -29,6 +29,10 @@ While this repository currently focuses on the Desktop/Laptop edition, the DevOS
 * **Dev-TopGM [Gaming Edition of Dev-Top OS]:** A performance-optimized version of Dev-Top OS tailored for PC gaming. (Future Development)
 * **Dev-TopSec [Cybersecurity Edition of Dev-Top OS]:** A hardened version of Dev-Top OS with pre-installed security tools for cybersecurity professionals and enthusiasts. (Future Development)
 
+## About the Creator
+
+DevOS is being initiated and led by a passionate software engineer with a strong affinity for Arch Linux and a vision for a more integrated and consistent personal computing experience across devices. With a background in software development and a keen interest in operating system customization, the creator aims to build a community around this project and collaboratively bring the DevOS vision to life.
+
 ## Dev-Top OS - Current Focus
 
 Dev-Top OS aims to provide a flexible and powerful desktop experience built on the solid foundation of Arch Linux. It will offer:
