@@ -22,12 +22,12 @@ The overarching goals of the DevOS project are:
 
 While this repository currently focuses on the Desktop/Laptop edition, the DevOS vision includes:
 
-* **Dev-Top OS [Desktop/Laptop Edition]:** A stable and customizable Arch-based OS for desktop and laptop computers. (You are here!)
-* **Dev-Droid OS [Smart Phone Edition]:** An Arch-based OS optimized for mobile devices with a touch-centric user interface. (Future Development)
-* **Dev-Car OS [Car Edition]:** An Arch-based system designed for smart cars and Android-powered in-car systems, focusing on integration and stability. (Future Development)
-* **Dev-Watch OS [Smartwatch Edition]:** A lightweight and power-efficient Arch-based OS for smartwatches with a focus on sensor integration and connectivity. (Future Development)
-* **Dev-TopGM [Gaming Edition of Dev-Top OS]:** A performance-optimized version of Dev-Top OS tailored for PC gaming. (Future Development)
-* **Dev-TopSec [Cybersecurity Edition of Dev-Top OS]:** A hardened version of Dev-Top OS with pre-installed security tools for cybersecurity professionals and enthusiasts. (Future Development)
+* **Dev-Top OS [Desktop/Laptop Edition]:** A stable and customizable Arch-based OS for desktop and laptop computers. (**Under Production**)
+  * **Dev-TopGM [Gaming Edition of Dev-Top OS]:** A performance-optimized version of Dev-Top OS tailored for PC gaming. (**Future Development**)
+  * **Dev-TopSec [Cybersecurity Edition of Dev-Top OS]:** A hardened version of Dev-Top OS with pre-installed security tools for cybersecurity professionals and enthusiasts. (**Under Production**)
+* **Dev-Droid OS [Smart Phone Edition]:** An Arch-based OS optimized for mobile devices with a touch-centric user interface. (**Future Development**)
+* **Dev-Car OS [Car Edition]:** An Arch-based system designed for smart cars and Android-powered in-car systems, focusing on integration and stability. (**Future Development**)
+* **Dev-Watch OS [Smartwatch Edition]:** A lightweight and power-efficient Arch-based OS for smartwatches with a focus on sensor integration and connectivity. (**Future Development**)
 
 ## About the Creator
 
