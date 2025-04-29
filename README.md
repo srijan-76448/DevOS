@@ -1,5 +1,5 @@
 # DevOS
-A unified series of Arch Linux-based operating systems (Dev-Top, Dev-Droid, Dev-Car, etc.) sharing a core and DevPKG package manager for consistent cross-platform experience.
+A unified EcoSystem of Arch Linux-based Operating Systems for multiple different platforms (like Smart Phone, Laptop/Desktop, Smart Watch, Raspberry Pi, Automobile, etc.), sharing a core and *DevPKG Package Manager* for consistent cross-platform experience.
 
 [![License](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![Version](https://img.shields.io/badge/Version-Beta%200.4.25-blue.svg)]()
